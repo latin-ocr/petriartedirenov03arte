@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./petriartedirenov03arte_0589.png"; bbox 0 0 2307 3788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 64 1330 1929 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 64 1330 1929 1508">
+     <span class='ocr_line' id='line_1_1' title="bbox 64 1330 1929 1508; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 64 1333 788 1508; x_wconf 80' lang='lat' dir='ltr'><strong>NOVA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 891 1330 1929 1505; x_wconf 83' lang='lat' dir='ltr'>GENERA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 411 1750 1585 1828">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 411 1750 1585 1828">
+     <span class='ocr_line' id='line_1_2' title="bbox 411 1750 1585 1828; baseline 0 -3"><span class='ocrx_word' id='word_1_3' title='bbox 411 1751 923 1827; x_wconf 65' lang='lat' dir='ltr'><strong>ARTEDI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1045 1750 1585 1828; x_wconf 77' lang='lat' dir='ltr'><strong>OBITUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 146 2073 1838 2160">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 146 2073 1838 2160">
+     <span class='ocr_line' id='line_1_3' title="bbox 146 2073 1838 2160; baseline -0.001 -17"><span class='ocrx_word' id='word_1_5' title='bbox 146 2077 395 2143; x_wconf 67' lang='lat' dir='ltr'><strong>Ams</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 451 2073 1099 2143; x_wconf 67' lang='lat' dir='ltr'>AUCTomssUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1159 2074 1838 2160; x_wconf 70' lang='grc' dir='ltr'><strong>εοΝετιΤυ-ΓΑ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1079 3470 1309 3534">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1079 3470 1309 3534">
+     <span class='ocr_line' id='line_1_4' title="bbox 1079 3470 1309 3534; baseline 0.004 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1079 3470 1180 3533; x_wconf 87' lang='lat' dir='ltr'><strong>Dd</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1224 3470 1309 3534; x_wconf 79' lang='lat' dir='ltr'><strong>dd</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
